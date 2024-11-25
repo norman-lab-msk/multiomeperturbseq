@@ -1,1 +1,1 @@
-# multiomeperturbseq
+This repository contains code to analyze Multiome Perturb-seq experiments and reproduce analysis from Metzner*, Southard* et al. 2024. Sequencing data is available from SRA under BioProject PRJNA1128171.
